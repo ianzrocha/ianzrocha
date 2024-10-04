@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Ian Rocha</h1>
 
-# 💫 Sobre Mim:
+# 💫 Sobre mim:
 Sou estudante do 1º ano do Ensino Médio, com interesse em linguagens de programação voltadas ao desenvolvimento front-end. Busco oportunidades de aprendizado na área de Tecnologia da Informação, visando aprimorar minhas habilidades e expandir meus conhecimentos neste campo.
 
 ## 🚀 O que faço?
