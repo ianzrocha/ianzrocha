@@ -12,8 +12,6 @@ Sou estudante do 1º ano do Ensino Médio, com interesse em linguagens de progra
 
 Participava de criações e edições de scripts simples para jogos como FiveM e Multi Theft Auto, visando aprimorar minhas habilidades em desenvolvimento e programação.
 
-- [Instagram]([https://www.instagram.com/swerikcodes/](https://www.instagram.com/ianrlkk/))
-
 ## 🌐 Conecte comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-rocha-78b2a7304/)
 
