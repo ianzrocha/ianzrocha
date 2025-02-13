@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋 I'm Ian Rocha</h1>
 
 # 💫 Sobre mim:
-Sou estudante do 1º ano do Ensino Médio, com interesse em linguagens de programação voltadas ao desenvolvimento front-end. Busco oportunidades de aprendizado na área de Tecnologia da Informação, visando aprimorar minhas habilidades e expandir meus conhecimentos neste campo.
+Sou estudante do 2º ano do Ensino Médio, com interesse em linguagens de programação voltadas ao desenvolvimento front-end. Busco oportunidades de aprendizado na área de Tecnologia da Informação, visando aprimorar minhas habilidades e expandir meus conhecimentos neste campo.
 
 ## 🚀 O que faço?
 
 - 🤖 Explorando Linguagens e Adquirindo.
-- 💻 Desenvolvo um site de música para a Feira de Conhecimento da escola, com o objetivo de apresentar conteúdos interativos. Pretendo continuar o desenvolvimento após o evento, aprimorando suas funcionalidades e recursos.
+- 💻 Desenvolvo sites para exploração da linguagem afins de diversão.
 
 ## 🎓 Sobre mim
 
