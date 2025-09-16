@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Ian Rocha</h1>
 
 # 🎓 Sobre mim:
-Sou estudante do 2º ano do Ensino Médio, tenho 16 anos com interesse em linguagens de programação voltadas ao desenvolvimento front-end. Porém busco oportunidades de aprendizado na área de Tecnologia da Informação, visando aprimorar minhas habilidades e expandir meus conhecimentos neste campo.
+Sou estudante do 2º ano do Ensino Médio, tenho 17 anos com interesse em linguagens de programação voltadas ao desenvolvimento front-end. Porém busco oportunidades de aprendizado na área de Tecnologia da Informação, visando aprimorar minhas habilidades e expandir meus conhecimentos neste campo.
 
 ## 🚀 O que faço?
 
