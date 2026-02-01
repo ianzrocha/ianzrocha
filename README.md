@@ -15,11 +15,11 @@
 <td width="65%">
 
 Sou desenvolvedor de sistemas júnior, focado em criar aplicações modernas, organizadas e funcionais.  
-Busco entender bem o que precisa ser feito e entregar soluções simples, bem estruturadas e que façam sentido na prática.
+Procuro entender bem o que precisa ser feito e entregar soluções simples, bem estruturadas e que funcionem na prática.
 
-- Interesse real em aprender e evoluir  
-- Atenção à organização e clareza  
-- Curiosidade por tecnologia e boas práticas  
+- Organização e clareza  
+- Curioso por tecnologia  
+- Interesse real em evoluir  
 
 </td>
 <td width="35%" align="center">
@@ -39,16 +39,16 @@ Gosto de entender como as coisas funcionam por trás e transformar ideias em alg
 
 No tempo livre, curto tecnologia, games e tudo que envolva criar, experimentar e melhorar.
 
-- Prática acima de teoria solta  
+- Prática acima de discurso  
 - Atenção aos detalhes  
-- Evolução contínua  
+- Evolução constante  
 - Curioso por natureza  
 
 ---
 
 ## 🛠️ Stack & Tecnologias
 
-<table align="center">
+<table align="center" cellspacing="20">
 <tr>
 <td align="center" width="50%">
 
@@ -82,10 +82,11 @@ No tempo livre, curto tecnologia, games e tudo que envolva criar, experimentar e
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ianzrocha&bg_color=0f172a&color=60a5fa&line=38bdf8&point=ffffff&area=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ianzrocha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ianzrocha&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
