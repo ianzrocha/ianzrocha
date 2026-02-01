@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Desenvolvedor+de+Sistemas;Full+Stack+Developer;React+%7C+Spring+Boot;Sempre+em+evolução" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/ianzrocha?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Em%20Evolução-22c55e?style=for-the-badge" />
-</p>
-
 ---
 
 ## 🧬 Sobre mim
@@ -19,12 +14,11 @@
 <tr>
 <td width="65%">
 
-Sou desenvolvedor de sistemas com foco em construir aplicações modernas, organizadas e fáceis de evoluir. Gosto de entender o problema antes de sair executando e busco sempre soluções simples, eficientes e bem estruturadas.
+Sou desenvolvedor de sistemas júnior e gosto de desenvolver aplicações modernas e organizadas. Procuro atender o que é pedido, mas sempre buscando a forma mais simples e eficiente de entregar o resultado.
 
-- 🧠 Evolução constante como dev  
-- 🎯 Código com propósito, não só visual  
-- 🚀 Foco em crescer para nível **Pleno → Sênior**  
-- 🎮 Gamer nas horas vagas (Mid no LoL 😅)  
+- 🧠 Evolução constante como dev
+- 🚀 Em constante evolução como desenvolvedor
+- 💡 Curioso por tecnologia, aprendizado e melhoria contínua
 
 </td>
 <td width="35%" align="center">
@@ -37,45 +31,45 @@ Sou desenvolvedor de sistemas com foco em construir aplicações modernas, organ
 
 ---
 
-## 😈 Visão & Um pouco sobre mim
+## 👀 Visão & um pouco sobre mim
 
-Prefiro aprender fazendo, errando e ajustando no caminho. Não busco atalhos — busco consistência.  
-Acredito que evolução real vem com tempo, prática e curiosidade constante.
+Aprendo colocando a mão na massa. Errar, ajustar e seguir em frente fazem parte do processo.  
+Busco melhorar constantemente e transformar ideias em soluções que realmente funcionem.
 
-Sou curioso por natureza, gosto de entender como as coisas funcionam por trás e de transformar ideias em algo concreto. Fora do trabalho, curto tecnologia, games e tudo que envolve criatividade.
+Gosto de entender como as coisas funcionam por trás, ir além do básico e construir algo bem feito. Fora do trabalho, curto tecnologia, games e tudo que envolva criar, testar e evoluir.
 
-- Constância acima de pressa  
-- Aprendizado na prática  
+- Constância no dia a dia  
+- Aprendizado prático  
 - Evolução contínua  
-- Curioso e criativo  
+- Curioso por natureza  
 
 ---
 
 ## 🛠️ Stack & Tecnologias
 
-### 🎨 Front-end
+### 🎨 UI
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
 </p>
 
-### ⚙️ Back-end
+### ⚙️ API
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,java,python" />
 </p>
 
-### 🗄️ Banco de Dados
+### 🗄️ Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🔧 Ferramentas
+### 🔧 Framework
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 📊 Atividade no GitHub
+## 📊 GitHub
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ianzrocha&bg_color=0f172a&color=60a5fa&line=38bdf8&point=ffffff&area=true&hide_border=true" />
@@ -85,10 +79,9 @@ Sou curioso por natureza, gosto de entender como as coisas funcionam por trás e
 
 ## 📌 O que você encontra aqui
 
-- 🚀 Projetos **Full Stack**
-- ⚛️ Aplicações em **React**
+- 🚀 **Construções** e **Soluções**
 - 🧪 Estudos e experimentos
-- 📄 Código organizado e bem documentado
+- 📄 Projetos pensados para aplicação real
 
 ---
 
@@ -104,8 +97,4 @@ Sou curioso por natureza, gosto de entender como as coisas funcionam por trás e
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:3b82f6&height=120&section=footer" />
-</p>
-
-<p align="center">
-  💙 Feito com calma, café ☕ e vontade de evoluir
 </p>
