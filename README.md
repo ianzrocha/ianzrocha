@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:6366f1&height=180&section=header&text=Ian%20Rocha&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Desenvolvedor+de+Sistemas;Full+Stack+Developer;React+%7C+Spring+Boot;Sempre+em+evolução" />
-</p>
-
----
-
 ## 🧬 Sobre mim
 
 <table>
@@ -15,16 +9,16 @@
 <td width="65%">
 
 Sou desenvolvedor de sistemas júnior, focado em criar aplicações modernas, organizadas e funcionais.  
-Procuro entender bem o que precisa ser feito e entregar soluções simples, bem estruturadas e que funcionem na prática.
+Busco entender bem o que precisa ser feito e entregar soluções simples, bem estruturadas e que façam sentido na prática.
 
-- Organização e clareza  
-- Curioso por tecnologia  
-- Interesse real em evoluir  
+- Interesse real em aprender e evoluir  
+- Atenção à organização e clareza  
+- Curiosidade por tecnologia e boas práticas  
 
 </td>
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" style="border-radius: 30px; border: 2px solid #3b82f6;" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
 </td>
 </tr>
@@ -32,23 +26,23 @@ Procuro entender bem o que precisa ser feito e entregar soluções simples, bem 
 
 ---
 
-## 👀 Visão & um pouco sobre mim
+## 👀 Visão
 
 Aprendo fazendo. Testar, errar e ajustar fazem parte do processo.  
 Gosto de entender como as coisas funcionam por trás e transformar ideias em algo útil e bem construído.
 
 No tempo livre, curto tecnologia, games e tudo que envolva criar, experimentar e melhorar.
 
-- Prática acima de discurso  
+- Prática acima de teoria solta  
 - Atenção aos detalhes  
-- Evolução constante  
+- Evolução contínua  
 - Curioso por natureza  
 
 ---
 
 ## 🛠️ Stack & Tecnologias
 
-<table align="center" cellspacing="20">
+<table align="center">
 <tr>
 <td align="center" width="50%">
 
@@ -82,11 +76,10 @@ No tempo livre, curto tecnologia, games e tudo que envolva criar, experimentar e
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ianzrocha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ianzrocha&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ianzrocha&bg_color=0f172a&color=60a5fa&line=38bdf8&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
