@@ -10,25 +10,12 @@
 
 ## 🧬 Sobre mim
 
-<table>
-<tr>
-<td width="65%">
-
 Sou desenvolvedor de sistemas júnior, focado em criar aplicações modernas, organizadas e funcionais.  
-Procuro entender bem o que precisa ser feito e entregar soluções simples, bem estruturadas e que funcionem na prática.
+Busco entender bem o que precisa ser feito e entregar soluções simples, bem estruturadas e que funcionem na prática.
 
 - Organização e clareza  
 - Curioso por tecnologia  
 - Interesse real em evoluir  
-
-</td>
-<td width="35%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -48,37 +35,29 @@ No tempo livre, curto tecnologia, games e tudo que envolva criar, experimentar e
 
 ## 🛠️ Stack & Tecnologias
 
-<table align="center" cellspacing="20">
-<tr>
-<td align="center" width="50%">
+<p align="center">
+  <div style="display:inline-block; width:45%; text-align:center; margin-bottom:30px;">
+    <h3>🎨 UI</h3>
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
+  </div>
 
-### 🎨 UI
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
+  <div style="display:inline-block; width:45%; text-align:center; margin-bottom:30px;">
+    <h3>⚙️ API</h3>
+    <img src="https://skillicons.dev/icons?i=spring,java,python" />
+  </div>
+</p>
 
-</td>
-<td align="center" width="50%">
+<p align="center">
+  <div style="display:inline-block; width:45%; text-align:center;">
+    <h3>🗄️ Database</h3>
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </div>
 
-### ⚙️ API
-<img src="https://skillicons.dev/icons?i=spring,java,python" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-</td>
-<td align="center" width="50%">
-
-### 🔧 Framework
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</td>
-</tr>
-</table>
+  <div style="display:inline-block; width:45%; text-align:center;">
+    <h3>🔧 Framework</h3>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  </div>
+</p>
 
 ---
 
