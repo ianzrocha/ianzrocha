@@ -1,78 +1,70 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:6366f1&height=180&section=header&text=Ian Rocha&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:6366f1&height=180&section=header&text=Ian%20Rocha&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Sistemas;Full+Stack+Developer;React+%7C+Spring+Boot;Código+limpo+%2B+performance" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Desenvolvedor+de+Sistemas;Full+Stack+Developer;React+%7C+Spring+Boot;Código+limpo+e+bem+pensado" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/SEU_USUARIO?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Em%20Evolução-success?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/ianzrocha?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Em%20Evolução-22c55e?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧬 Quem sou eu
+## 🧬 Sobre mim
 
-<img align="right" height="220" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img align="right" height="210" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Sou desenvolvedor de sistemas júnior, com foco em desenvolver aplicações modernas e escaláveis. Tenho experiência em front-end e back-end, valorizo boas práticas e estou em constante aprendizado para evoluir como profissional e entregar soluções cada vez melhores.
+Sou **desenvolvedor de sistemas** com foco em construir aplicações modernas, organizadas e fáceis de evoluir. Gosto de entender o problema antes de sair codando e busco sempre soluções simples, eficientes e bem estruturadas.
 
-- 🧠 Mentalidade de crescimento constante  
-- ⚙️ Foco em soluções reais, não só código bonito  
-- 🚀 Buscando nível **MELHORES** 
+- 🧠 Evolução constante como dev  
+- ⚙️ Código com propósito, não só visual  
+- 🚀 Foco em crescer para nível **Pleno → Sênior**  
+- 🎮 Gamer nas horas vagas (Mid no LoL 😅)
 
 ---
 
-## 🛠️ Stack's Principal
+## 🛠️ Stack & Tecnologias
 
 ### 🎨 Front-end
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
 </p>
 
 ### ⚙️ Back-end
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,java" />
+  <img src="https://skillicons.dev/icons?i=spring,java,python" />
 </p>
 
 ### 🗄️ Banco de Dados
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🔧 Ferramentas
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 🧠 Como eu penso quando escrevo código
+## 🧠 Como eu trabalho com código
 
-✔ Código simples, legível e sustentável
-✔ Arquitetura que facilite evolução
-✔ Componentes bem definidos e reutilizáveis
-✔ Cada parte com sua responsabilidade
-✔ Preocupação real com performance e segurança
+Prefiro soluções **claras e bem pensadas**, evitando complexidade desnecessária. Busco sempre escrever código que outra pessoa consiga entender sem precisar de explicação.
+
+- Organização antes da implementação  
+- Componentização e reutilização  
+- Nomes claros e responsabilidade única  
+- Código fácil de manter e evoluir  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub em atividade (visual limpo)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ianzrocha&bg_color=0f172a&color=60a5fa&line=38bdf8&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -80,17 +72,17 @@ Sou desenvolvedor de sistemas júnior, com foco em desenvolver aplicações mode
 ## 📌 O que você encontra aqui
 
 - 🚀 Projetos **Full Stack**
-- 🧪 Laboratórios de estudo
-- 🏗️ Estruturas prontas para produção
-- 📄 Código documentado e organizado
+- ⚛️ Aplicações em **React**
+- 🧪 Estudos e testes de novas ideias
+- 📄 Código organizado e documentado
 
 ---
 
-## 🌐 Conexões
+## 🌐 Onde me encontrar
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/ianzrocha">
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -101,5 +93,5 @@ Sou desenvolvedor de sistemas júnior, com foco em desenvolver aplicações mode
 </p>
 
 <p align="center">
-  💙 Feito com dedicação, café ☕ e vontade de evoluir
+  💙 Feito com calma, café ☕ e vontade de evoluir
 </p>
