@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:6366f1&height=180&section=header&text=Hariel&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:6366f1&height=180&section=header&text=Ian Rocha&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -18,16 +18,15 @@
 
 <img align="right" height="220" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-Sou **desenvolvedor de sistemas** focado em criar aplicações modernas, escaláveis e bem arquitetadas. Tenho experiência tanto no **front-end** quanto no **back-end**, sempre priorizando boas práticas, performance e organização de código.
+Sou desenvolvedor de sistemas júnior, com foco em desenvolver aplicações modernas e escaláveis. Tenho experiência em front-end e back-end, valorizo boas práticas e estou em constante aprendizado para evoluir como profissional e entregar soluções cada vez melhores.
 
 - 🧠 Mentalidade de crescimento constante  
 - ⚙️ Foco em soluções reais, não só código bonito  
-- 🚀 Buscando nível **Pleno → Sênior**  
-- 🎮 Gamer (Mid no LoL 😅)  
+- 🚀 Buscando nível **MELHORES** 
 
 ---
 
-## 🛠️ Stack Principal
+## 🛠️ Stack's Principal
 
 ### 🎨 Front-end
 
@@ -55,13 +54,13 @@ Sou **desenvolvedor de sistemas** focado em criar aplicações modernas, escalá
 
 ---
 
-## 🧠 O que eu valorizo no código
+## 🧠 Como eu penso quando escrevo código
 
-✔ Código limpo e legível  
-✔ Arquitetura bem definida  
-✔ Componentização  
-✔ Responsabilidade única  
-✔ Performance e segurança  
+✔ Código simples, legível e sustentável
+✔ Arquitetura que facilite evolução
+✔ Componentes bem definidos e reutilizáveis
+✔ Cada parte com sua responsabilidade
+✔ Preocupação real com performance e segurança
 
 ---
 
