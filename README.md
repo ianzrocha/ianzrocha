@@ -14,11 +14,12 @@
 <tr>
 <td width="65%">
 
-Sou desenvolvedor de sistemas júnior e gosto de desenvolver aplicações modernas e organizadas. Procuro atender o que é pedido, mas sempre buscando a forma mais simples e eficiente de entregar o resultado.
+Sou desenvolvedor de sistemas júnior, focado em criar aplicações modernas, organizadas e funcionais.  
+Busco entender bem o que precisa ser feito e entregar soluções simples, bem estruturadas e que façam sentido na prática.
 
-- 🧠 Evolução constante como dev
-- 🚀 Em constante evolução como desenvolvedor
-- 💡 Curioso por tecnologia, aprendizado e melhoria contínua
+- Interesse real em aprender e evoluir  
+- Atenção à organização e clareza  
+- Curiosidade por tecnologia e boas práticas  
 
 </td>
 <td width="35%" align="center">
@@ -33,13 +34,13 @@ Sou desenvolvedor de sistemas júnior e gosto de desenvolver aplicações modern
 
 ## 👀 Visão & um pouco sobre mim
 
-Aprendo colocando a mão na massa. Errar, ajustar e seguir em frente fazem parte do processo.  
-Busco melhorar constantemente e transformar ideias em soluções que realmente funcionem.
+Aprendo fazendo. Testar, errar e ajustar fazem parte do processo.  
+Gosto de entender como as coisas funcionam por trás e transformar ideias em algo útil e bem construído.
 
-Gosto de entender como as coisas funcionam por trás, ir além do básico e construir algo bem feito. Fora do trabalho, curto tecnologia, games e tudo que envolva criar, testar e evoluir.
+No tempo livre, curto tecnologia, games e tudo que envolva criar, experimentar e melhorar.
 
-- Constância no dia a dia  
-- Aprendizado prático  
+- Prática acima de teoria solta  
+- Atenção aos detalhes  
 - Evolução contínua  
 - Curioso por natureza  
 
@@ -47,25 +48,37 @@ Gosto de entender como as coisas funcionam por trás, ir além do básico e cons
 
 ## 🛠️ Stack & Tecnologias
 
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
 ### 🎨 UI
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
+
+</td>
+<td align="center" width="50%">
 
 ### ⚙️ API
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,java,python" />
-</p>
+<img src="https://skillicons.dev/icons?i=spring,java,python" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
 
 ### 🗄️ Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</td>
+<td align="center" width="50%">
 
 ### 🔧 Framework
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -79,9 +92,9 @@ Gosto de entender como as coisas funcionam por trás, ir além do básico e cons
 
 ## 📌 O que você encontra aqui
 
-- 🚀 **Construções** e **Soluções**
-- 🧪 Estudos e experimentos
-- 📄 Projetos pensados para aplicação real
+- 🚀 Projetos e soluções práticas  
+- 🧪 Estudos e experimentos  
+- 📄 Aplicações pensadas para uso real  
 
 ---
 
