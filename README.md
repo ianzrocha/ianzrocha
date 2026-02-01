@@ -24,7 +24,7 @@ Procuro entender bem o que precisa ser feito e entregar soluções simples, bem 
 </td>
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" style="border-radius: 30px; border: 2px solid #3b82f6;" />
 
 </td>
 </tr>
