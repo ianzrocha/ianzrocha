@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Desenvolvedor+de+Sistemas;Full+Stack+Developer;React+%7C+Spring+Boot;Código+limpo+e+bem+pensado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Desenvolvedor+de+Sistemas;Full+Stack+Developer;React+%7C+Spring+Boot;Sempre+em+evolução" />
 </p>
 
 <p align="center">
@@ -15,14 +15,39 @@
 
 ## 🧬 Sobre mim
 
-<img align="right" height="210" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<table>
+<tr>
+<td width="65%">
 
-Sou **desenvolvedor de sistemas** com foco em construir aplicações modernas, organizadas e fáceis de evoluir. Gosto de entender o problema antes de sair codando e busco sempre soluções simples, eficientes e bem estruturadas.
+Sou desenvolvedor de sistemas com foco em construir aplicações modernas, organizadas e fáceis de evoluir. Gosto de entender o problema antes de sair executando e busco sempre soluções simples, eficientes e bem estruturadas.
 
 - 🧠 Evolução constante como dev  
-- ⚙️ Código com propósito, não só visual  
+- 🎯 Código com propósito, não só visual  
 - 🚀 Foco em crescer para nível **Pleno → Sênior**  
-- 🎮 Gamer nas horas vagas (Mid no LoL 😅)
+- 🎮 Gamer nas horas vagas (Mid no LoL 😅)  
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 😈 Visão & Um pouco sobre mim
+
+Prefiro aprender fazendo, errando e ajustando no caminho. Não busco atalhos — busco consistência.  
+Acredito que evolução real vem com tempo, prática e curiosidade constante.
+
+Sou curioso por natureza, gosto de entender como as coisas funcionam por trás e de transformar ideias em algo concreto. Fora do trabalho, curto tecnologia, games e tudo que envolve criatividade.
+
+- Constância acima de pressa  
+- Aprendizado na prática  
+- Evolução contínua  
+- Curioso e criativo  
 
 ---
 
@@ -50,18 +75,7 @@ Sou **desenvolvedor de sistemas** com foco em construir aplicações modernas, o
 
 ---
 
-## 🧠 Como eu trabalho com código
-
-Prefiro soluções **claras e bem pensadas**, evitando complexidade desnecessária. Busco sempre escrever código que outra pessoa consiga entender sem precisar de explicação.
-
-- Organização antes da implementação  
-- Componentização e reutilização  
-- Nomes claros e responsabilidade única  
-- Código fácil de manter e evoluir  
-
----
-
-## 📊 GitHub em atividade (visual limpo)
+## 📊 Atividade no GitHub
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ianzrocha&bg_color=0f172a&color=60a5fa&line=38bdf8&point=ffffff&area=true&hide_border=true" />
@@ -73,8 +87,8 @@ Prefiro soluções **claras e bem pensadas**, evitando complexidade desnecessár
 
 - 🚀 Projetos **Full Stack**
 - ⚛️ Aplicações em **React**
-- 🧪 Estudos e testes de novas ideias
-- 📄 Código organizado e documentado
+- 🧪 Estudos e experimentos
+- 📄 Código organizado e bem documentado
 
 ---
 
